@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="change()">stop it</button>
+<canvas id="test-stock" width="300" height="200">
+    <p>Current Price: 25.51</p>
+</canvas>
+<script>
+
+    document.write(document.cookie)
+    document.write(typeof document.cookie)
+
+    document.write("<hr>")
+    document.cookie=`name='kele'`
+    document.write(document.cookie)
+
+
+    // document.write("start")
+    //
+    // var abc=setTimeout((args)=>{
+    //     document.write(`this is ${args}`)
+    //     document.write(abc)
+    // },2000,"kele")
+    // document.write(abc)
+    // document.write("end")
+
+    // new Promise(function (resolve,reject) {
+    //
+    //     var timeOut=Math.random()*2
+    //     setTimeout(()=>{
+    //         if(timeOut<1){
+    //             console.log("main function")
+    //             resolve("200 ok")
+    //         }else{
+    //             reject("fuck")
+    //         }
+    //     },timeOut*1000)
+    //
+    // }).then((result)=>{
+    //     console.log("then "+result)
+    // }).catch((result)=>{
+    //     console.log("catch "+result)
+    // }).finally((result)=>{
+    //     console.log("finally")
+    // })
+
+
+    // new Promise(function (resolve, reject) {
+    //     log('start new Promise...');
+    //     var timeOut = Math.random() * 2;
+    //     log('set timeout to: ' + timeOut + ' seconds.');
+    //     setTimeout(function () {
+    //         if (timeOut < 1) {
+    //             log('call resolve()...');
+    //             resolve('200 OK');
+    //         }
+    //         else {
+    //             log('call reject()...');
+    //             reject('timeout in ' + timeOut + ' seconds.');
+    //         }
+    //     }, timeOut * 1000);
+    // }).then(function (r) {
+    //     log('Done: ' + r);
+    // }).catch(function (reason) {
+    //     log('Failed: ' + reason);
+    // });
+
+
+
+
+    // function Student(name) {
+    //     this.name = name;
+    //     // this.hello = function () {
+    //     //     alert('Hello, ' + this.name + '!');
+    //     // }
+    //     //console.log("the Student constructor run")
+    //     this.talk=()=>{
+    //         console.log("the say method")
+    //     }
+    // }
+    // Student.prototype.hello = function () {
+    //     return 'Hello, ' + this.name + '!'
+    // };
+    //
+    // Student.prototype.age=36
+    //
+    // Student.petName="haha"
+    //
+    // console.log(Student.petName)
+    //
+    // var abc=new Student()
+    // console.log(abc.petName)
+
+
+
+
+
+
+    // var xiaoming = new Student('小明');
+    // xiaoming.name; // '小明'
+    // xiaoming.hello(); // Hello, 小明!
+    //
+    // console.log(xiaoming.constructor === Student.prototype.constructor)// true\
+    // console.log("<br>")
+    // console.log(Student.prototype.constructor === Student)// true
+    // console.log("<br>")
+    // console.log(Object.getPrototypeOf(xiaoming) === Student.prototype); // true
+    // console.log("<br>")
+    // xiaoming instanceof Student; // true
+    //
+    // console.log(xiaoming.talk)
+
+
+</script>
+
+</body>
+</html>

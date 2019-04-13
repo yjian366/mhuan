@@ -1,0 +1,112 @@
+SQA,ALL,路惠明,luhm@tcl.com,TestManager
+SQA,MTK_GROUP,刘冰斌,liubb@tcl.com,TestTeamer
+SQA,MTK_GROUP,宝莉莉	,aoll@tcl.com,TestLeader
+SQA,MTK_GROUP,刘英,ying9.liu@tcl.com,Tester
+SQA,MTK_GROUP,黄晓宏,huangxh@tcl.com	,TestLeader
+SQA,MTK_GROUP,孟洁,mengj@tcl.com	,Tester
+SQA,MTK_GROUP,刘俊俊,liujunjun1@tcl.com,Tester
+SQA,MTK_GROUP,周李波,libo.zhou@tcl.com,Tester
+SQA,MTK_GROUP,杨霞霞	,yangxx@tcl.com,TestLeader
+SQA,MTK_GROUP,刘盼盼	,liupanpan@tcl.com,Tester
+SQA,MTK_GROUP,何纯贵	,hecg@tcl.com,Tester
+SQA,MTK_GROUP,李晋贤	,jinxian.li@tcl.com,Tester
+SQA,MTK_GROUP,甘治越	,zhiyue.gan@tcl.com,Tester
+SQA,MTK_GROUP,张婷婷	,zhangtingting@tcl.com,Tester
+SQA,MTK_GROUP,杨建,j.yang@tcl.com,Tester
+
+SQA,RTK_GROUP,申杰,shenjie@tcl.com,TestTeamer
+SQA,RTK_GROUP,袁静,yuanjing1@tcl.com	,TestLeader
+SQA,RTK_GROUP,彭海燕	,penghy@tcl.com,TestLeader
+SQA,RTK_GROUP,曾江南	,zengjn@tcl.com,TestLeader
+SQA,RTK_GROUP,胡新,huxin1@tcl.com,TestLeader
+SQA,RTK_GROUP,严浩,hao3.yan@tcl.com,TestLeader
+SQA,RTK_GROUP,郭大威,dawei1.guo@tcl.com,Tester
+SQA,RTK_GROUP,卜林国	,bulg@tcl.com,TestLeader
+SQA,RTK_GROUP,黄大权	,huangdaquan@tcl.com,Tester
+SQA,RTK_GROUP,李勇,liyong18@tcl.com,Tester
+SQA,RTK_GROUP,钟伟,wei1.zhong@tcl.com,Tester
+SQA,RTK_GROUP,吴嗣伟,siwei1.wu@tcl.com,Tester
+SQA,RTK_GROUP,纪世明,shiming1.ji@tcl.com,Tester
+SQA,RTK_GROUP,胥国栋,guodong.xu@tcl.com,Tester
+SQA,RTK_GROUP,李勉豪,mianhao.li@tcl.com,Tester
+SQA,RTK_GROUP,李俊林,lijunlin@tcl.com,Tester
+SQA,RTK_GROUP,杨一璠	,yifan.yang@tcl.com,Tester
+SQA,RTK_GROUP,钟园园	,yuanyuan.zhong@tcl.com,Tester
+SQA,RTK_GROUP,杨兴,xing6.yang@tcl.com,Tester
+SQA,RTK_GROUP,张聪,ex_cong.zhang@tcl.com,Tester
+SQA,RTK_GROUP,鞠平正,pingzheng.ju@tcl.com,Tester
+
+SQA,MSTAR_GROUP,姜锋,jiangf@tcl.com,TestTeamer
+SQA,MSTAR_GROUP,范醒花,fanxinghua@tcl.com,TestLeader
+SQA,MSTAR_GROUP,王启帆,qifan.wang@tcl.com,Tester
+SQA,MSTAR_GROUP,牛志科,niuzk@tcl.com,Tester
+SQA,MSTAR_GROUP,林小康,ex_xiaokang.lin@tcl.com,Tester
+SQA,MSTAR_GROUP,曾冬梅,zengdm@tcl.com,Tester
+SQA,MSTAR_GROUP,刘小翠,liuxc@tcl.com,TestLeader
+SQA,MSTAR_GROUP,陈丽芳,clifang@tcl.com,Tester
+SQA,MSTAR_GROUP,徐龙腾,xult@tcl.com,Tester
+SQA,MSTAR_GROUP,刘芬	,lf@tcl.com,TestLeader
+SQA,MSTAR_GROUP,代宇琴,daiyuqin@tcl.com,Tester
+SQA,MSTAR_GROUP,陈志亮,chenzhiliang@tcl.com,TestLeader
+SQA,MSTAR_GROUP,廖水娣,shuidi.liao@tcl.com,Tester
+SQA,MSTAR_GROUP,仝建伟,jianwei.tong@tcl.com,Tester
+SQA,MSTAR_GROUP,卢倩倩,luqq@tcl.com,TestLeader
+SQA,MSTAR_GROUP,陈海	,ex_hai.chen@tcl.com,Tester
+SQA,MSTAR_GROUP,刘裕萍,ex_yuping.liu@tcl.com,Tester
+SQA,MSTAR_GROUP,陈嘉慧,ex_jiahui.chen@tcl.com,Tester
+
+SQA,CERTIFICATY_GROUP,平安,pinga@tl.com,TestTeamer
+SQA,CERTIFICATY_GROUP,张晓瑞	,zhangxiaorui@tcl.com,TestLeader
+SQA,CERTIFICATY_GROUP,张烁,zhshuo@tcl.com,TestLeader
+SQA,CERTIFICATY_GROUP,杨双宁,ysn@tcl.com,TestLeader
+SQA,CERTIFICATY_GROUP,布红革,buhg@tcl.com,TestLeader
+SQA,CERTIFICATY_GROUP,许文义,xuwenyi@tcl.com,Tester
+SQA,CERTIFICATY_GROUP,吴艳,wuyan1@tcl.com,Tester
+SQA,CERTIFICATY_GROUP,王海霞,wanghaixia@tcl.com,Tester
+SQA,CERTIFICATY_GROUP,刘威,wei17.liu@tcl.com,Tester
+SQA,CERTIFICATY_GROUP,金怀波	,huaibo.jin@tcl.com,Tester
+
+SQA,CONFIG_GROUP,段平,jeffrey.duan@tcl.com,TestTeamer
+SQA,CONFIG_GROUP,曾鑫,xin1.zeng@tcl.com,TestLeader
+SQA,CONFIG_GROUP,廖峥,zheng.liao@tcl.com,Tester
+SQA,CONFIG_GROUP,孙大林,dalin.sun@tcl.com,TestLeader
+SQA,CONFIG_GROUP,陈琪,cq@tcl.com,Tester
+SQA,CONFIG_GROUP,张锐,zhangrui8@tcl.com,Tester
+SQA,CONFIG_GROUP,陈正茂,chenzhengmao@tcl.com,Tester
+SQA,CONFIG_GROUP,杨科学,yangkx@tcl.com,Tester
+SQA,CONFIG_GROUP,何昀达,yunda.he@tcl.com,Tester
+SQA,CONFIG_GROUP,曾伟,zengwei@tcl.com,Tester
+
+SQA,MULTIPLE1_GROUP,曹小梅,caoxm@tcl.com,TestTeamer
+SQA,MULTIPLE1_GROUP,殷玉洁,yinyj@tcl.com,TestLeader
+SQA,MULTIPLE1_GROUP,陈胜宁,chensn@tcl.com,TestLeader
+SQA,MULTIPLE1_GROUP,陈晓帆,chenxf@tcl.com,TestLeader
+SQA,MULTIPLE1_GROUP,安建	,aj@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,欧泽瀚,ouzh@tcl.com,TestLeader
+SQA,MULTIPLE1_GROUP,郑冬超,zhengdc@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,蒙永洪,yonghong1.meng@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,杨碧玉,biyu.yang@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,罗月林,luoyuelin@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,孙海彦,haiyan.sun@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,高秀峰,xiufeng.gao@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,陈浩	,hao4.chen@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,邱艳	,yan1.qiu@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,成楠	,nan1.cheng@tcl.com,Tester
+SQA,MULTIPLE1_GROUP,姚佳淮,ex_jiahuai.yao@tcl.com,Tester
+
+SQA,MULTIPLE2_GROUP,侯聚雷,houjl@tcl.com,TestTeamer
+SQA,MULTIPLE2_GROUP,何彩霞,hecx@tcl.com,TestLeader
+SQA,MULTIPLE2_GROUP,张勤	,zqin@tcl.com,TestLeader
+SQA,MULTIPLE2_GROUP,江英	,jiangying@tcl.com,TestLeader
+SQA,MULTIPLE2_GROUP,赖秋燕,laiqy@tcl.com	,TestLeader
+
+SQA,AUTO_GROUP,李军,lij@tcl.com,TestTeamer
+SQA,AUTO_GROUP,林泽锋,linzefeng@tcl.com,TestLeader
+SQA,AUTO_GROUP,张盼青,zhangpq@tcl.com,TestLeader
+SQA,AUTO_GROUP,彭丽,li.peng@tcl.com,TestLeader
+SQA,AUTO_GROUP,刘春梅,liucm@tcl.com,TestLeader
+SQA,AUTO_GROUP,吴齐期,wuqiqi@tcl.com,Tester
+SQA,AUTO_GROUP,姚龙,yaolong@tcl.com,Tester
+SQA,AUTO_GROUP,袁少卿,shaoqing.yuan@tcl.com,Tester
+SQA,AUTO_GROUP,李静旭,jingxu.li@tcl.com,Tester
+
